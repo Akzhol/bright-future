@@ -10,9 +10,12 @@ $pageData->css
 $pageData->css_icons
 </head>
 <body>
+<br/>
+<br/>
+<br/>
 <div class='row'>
 <div class='large-12 columns'>
-<h1><i class='fi-lightbulb large'></i> Bright Future Inc. <small>Yet another enthusiast's blog</small></h1>
+<h1><i class='fi-lightbulb large'></i> <a href='index.php?page=skills'>Bright Future Inc.</a> <small>Yet another enthusiast's blog</small></h1>
 </div>
 </div>
 <div class='row'>
